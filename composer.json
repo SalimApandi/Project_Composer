@@ -1,0 +1,15 @@
+{
+    "name": "asus/latihancomposer",
+    "description": "ini latihan aku",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SalimApandi",
+            "email": "223443047@mhs.polman-bandung.ac.id"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    },
+    "scripts": {"server" : "php -S localhost:8080"}
+}
